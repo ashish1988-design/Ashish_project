@@ -1,2 +1,2 @@
 # Ashish_project
-Demo project
+Hi All, I am new to GIthub
